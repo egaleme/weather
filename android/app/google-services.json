@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "409951449795",
+    "firebase_url": "https://leadway-8ad2b.firebaseio.com",
+    "project_id": "leadway-8ad2b",
+    "storage_bucket": "leadway-8ad2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409951449795:android:b4f2377e92c864a19d6876",
+        "android_client_info": {
+          "package_name": "com.dvtweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9JmEMjoB1brbHaU62OdJZsHPWsazwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409951449795:android:62ba14eddb6031739d6876",
+        "android_client_info": {
+          "package_name": "com.leadway.pensure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9JmEMjoB1brbHaU62OdJZsHPWsazwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409951449795:android:9d1f5c0dc49e3b609d6876",
+        "android_client_info": {
+          "package_name": "com.unionbankcameroon.ubcmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9JmEMjoB1brbHaU62OdJZsHPWsazwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409951449795:android:567ff8007fe7f8bc9d6876",
+        "android_client_info": {
+          "package_name": "com.unionbankcameroon.ubcmobilebanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9JmEMjoB1brbHaU62OdJZsHPWsazwmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409951449795-aa3tcr48rj79rmmt1r3o3rjlg6iev5af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
