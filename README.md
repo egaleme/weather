@@ -1,4 +1,4 @@
-# weather
+# Weather
 Your current location weather and five day forecast written in React-Native.
 
 # Instruction
@@ -8,5 +8,8 @@ APPID=YOUR-OPEN-WEATHER-MAP-KEY-HERE
 
 
 APIKEY=YOUR-GOOGLE-PLACES-API-KEY-HERE
+
+
+# ScreenShot
 
 <img src="./Forest - Cloudy.png">
